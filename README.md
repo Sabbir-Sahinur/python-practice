@@ -1,4 +1,4 @@
-# 🐍 Python Practice Repository
+# 🐍 Python Practice  :
 
 This repository contains my journey of learning and practicing Python programming. It includes a collection of problems, exercises, and small projects that help me build a strong foundation in Python.
 
